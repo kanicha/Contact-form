@@ -1,0 +1,16 @@
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+form label{
+  display: block;
+  font-size: 20px
+}
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: #fff8dc
+}
